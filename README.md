@@ -4,6 +4,8 @@
 
 It works seamlessly as a **Progressive Web App (PWA)** and can be installed as a native **Android App** using Capacitor.
 
+![Screenshot](images/screenshot.jpeg)
+
 ## ✨ Features
 
 - **🎨 Premium Aesthetic**: Deep dark mode with vibrant Neon Lime accents and frosted glass elements.
