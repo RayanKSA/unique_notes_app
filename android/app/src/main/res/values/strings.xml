@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Nebula Notes</string>
+    <string name="title_activity_main">Nebula Notes</string>
+    <string name="package_name">com.example.nebulanotes</string>
+    <string name="custom_url_scheme">com.example.nebulanotes</string>
+</resources>
